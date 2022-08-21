@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayedShamim
 - 👀 I’m interested in Andriod apps development through Kotlin
 - 🌱 I’m currently learning Android Studio Kotlin based Development
-- 💞️ I’m looking to collaborate on Nothing Right now
+- 💞️ I’m looking to collaborate on Android app development now
 - 📫 How to reach me ...
 
 <!---
