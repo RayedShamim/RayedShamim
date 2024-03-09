@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RayedShamim
-- 👀 I’m interested in Andriod apps development through Kotlin
-- 🌱 I’m currently learning Android Studio Kotlin based Development
-- 💞️ I’m looking to collaborate on Android app development now
-- 📫 How to reach me ...
+- 👀 I’m interested in Deep Learning and RNN
+- 🌱 I’m currently learning Tensorflow
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me ... rayedprofessional@gmail.com 
 
 <!---
 RayedShamim/RayedShamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
